@@ -14,5 +14,8 @@
     "rolldown": "^0.10.2",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+  },
+  "resolutions": {
+    "@napi-rs/wasm-runtime": "npm:@napi-rs/wasm-runtime@0.2.0"
   }
 }
